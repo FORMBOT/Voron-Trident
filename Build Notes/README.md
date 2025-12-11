@@ -280,7 +280,8 @@ The Z-Endstop cables are not needed.
 
 
 
-P. 218-219/221-231/233-237 Trident manual:
+### P. 218-219/221-231/233-237 Trident manual:
+
 For a better Overview of the wiring, use the [wiring diagram](https://github.com/FORMBOT/Voron-Trident/blob/main/Diagrams/Wiring%20Diagram%20of%20Trident%20R1%20Pro.pdf).
 
 Connect the B motor (left motor) to X Motor, connect the A motor (right motor) to Y Motor.
@@ -289,7 +290,8 @@ Connect the CAN-Cable to the right CAN-Port on the M8P and 24V / GND to the 24V 
 
 
 
-P. 232 Trident manual:
+### P. 232 Trident manual:
+
 Route the Y Endstop cable and the A Motor cables down like the B Motor cable (but on the right side of the printer).
 
 
