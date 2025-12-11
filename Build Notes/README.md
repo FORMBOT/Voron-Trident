@@ -314,7 +314,5 @@ Use the big cable sleeve around the exhaust fan cable (if you use the stock exha
 
 
 
-#### Don't power on the printer if you are not 100% sure you wired everything correct!
-
-#### And have a look into [this](https://github.com/FORMBOT/Voron-Trident/blob/main/Diagrams/Instruction%20of%20Trident%20R1%20Pro.pdf).
+#### Don't power on the printer if you are not 100% sure you wired everything correct! And have a look into [this](https://github.com/FORMBOT/Voron-Trident/blob/main/Diagrams/Instruction%20of%20Trident%20R1%20Pro.pdf).
 
