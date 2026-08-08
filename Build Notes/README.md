@@ -1,6 +1,6 @@
 ## Functional parts build notes (to get the Printer up and running)
 
-Start with the [Stock Voron Trident R1 Manual](https://github.com/VoronDesign/Voron-Trident/releases#release-VTr1).
+Start with the [Stock Voron Trident R1 Manual](https://github.com/FORMBOT/Voron-Trident/blob/main/Assembly_Manual_Trident_R1%282024%29.pdf) (the one on the Voron Trident R1 Git is not the most recent one).
 
 Be aware that the vT Manual uses a 250mm Version of the Trident, so some dimensions may seem wrong if you build a 300mm/350mm Version.
 
@@ -144,7 +144,7 @@ You dont need to screw the 5015 fan into the SB Face, you will install the SB000
 
 ### P. 58 Stealthburner manual:
 
-All parts of the Stealthburner are now pretty much finished. Now you will need to install the Can-Board on there and do some basic wiring. Switch to the [SB2209 RP2040 Manual](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2209%20CAN%20(RP2040)/Build%20Guide).
+All parts of the Stealthburner are now pretty much finished. Now you will need to install the Can-Board on there and do some basic wiring. Switch to the [SB2209 RP2040 Manual](https://github.com/bigtreetech/EBB/tree/master/EBB%20SB2209%20CAN%20%28RP2040%29/Build%20Guide).
 
 
 
