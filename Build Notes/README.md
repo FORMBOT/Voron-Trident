@@ -1,6 +1,6 @@
 ## Functional parts build notes (to get the Printer up and running)
 
-Start with the [Stock Voron Trident R1 Manual](https://github.com/FORMBOT/Voron-Trident/blob/main/Assembly_Manual_Trident_R1%282024%29.pdf) (the one on the Voron Trident R1 Git is not the most recent one).
+Start with the [Stock Voron Trident R1 Manual](https://drive.google.com/file/d/1SZPV2CbrWAcEAtXU0fp9lZ_o1P9Tl-v9/view?usp=sharing) (the one on the Voron Trident R1 Git is not the most recent one).
 
 Be aware that the vT Manual uses a 250mm Version of the Trident, so some dimensions may seem wrong if you build a 300mm/350mm Version.
 
